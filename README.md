@@ -4,7 +4,7 @@ The owners of Create a Chimera have asked you to build a Web based UI that allow
 
 ## User Stories
 
-Diners at the Khandescending grill should be able to pick from a variety of body parts for the head, torso, and legs of their new creation.
+Diners at Create A Chimera should be able to pick from a variety of body parts for the head, torso, and legs of their new creation.
 
 There should also be a Create Chimera button, when the user clicks the button, their chimera number and price total should be printed below the button.
 
